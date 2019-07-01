@@ -1,2 +1,4 @@
 1. chleb
 2. maslo
+3. pomidor
+4. szynka
